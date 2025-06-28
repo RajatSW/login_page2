@@ -15,7 +15,7 @@ This project features a smooth toggle transition between Sign In and Sign Up for
 ## 📸 Preview
 
 ![Login Page Banner](./banner.png) <!-- Add your own banner image here -->
-![Live Demo GIF](./demo.gif) <!-- Add your recorded GIF here -->
+![Live Demo GIF](./demo.gif) Will be posted soon<!-- Add your recorded GIF here -->
 
 ## 🚀 Technologies Used
 
@@ -33,10 +33,7 @@ This project features a smooth toggle transition between Sign In and Sign Up for
 
 ## 🔧 Setup Instructions
 
-1. Clone the repository  
-   `git clone https://github.com/your-username/login-signup-ui.git`
-
-2. Open `index.html` in your browser  
+1. Clone the repositorOpen `index.html` in your browser  
    Or host it using **GitHub Pages** for live demo.
 
 ## 💡 Use Cases
