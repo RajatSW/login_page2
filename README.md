@@ -41,11 +41,6 @@ This project features a smooth toggle transition between Sign In and Sign Up for
 - Login UI component for a larger app
 - Teaching beginner web development UI/UX patterns
 
-## 👨‍💻 Author
-
-**Rishu** — [GitHub](https://github.com/your-username)  
-Built with ❤️ and a keyboard.
-
 ---
 
 > ✨ _“First impressions are formed in milliseconds — so let your UI do the talking!”_
