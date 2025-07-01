@@ -14,7 +14,7 @@ This project features a smooth toggle transition between Sign In and Sign Up for
 
 ## 🔍 Preview
 
-![imgage alt]()
+![imgage alt](https://github.com/RajatSW/login_page2/blob/76d5d56014e59b6d17a00d16eb4a798d53c12b65/login_page2.png)
 
 ## 🚀 Technologies Used
 
