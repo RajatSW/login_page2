@@ -4,6 +4,10 @@ A modern, animated login & registration page built using **HTML**, **CSS**, and 
 
 This project features a smooth toggle transition between Sign In and Sign Up forms, social login buttons, and a clean, mobile-responsive UI — perfect for front-end developers looking to showcase their styling and DOM manipulation skills.
 
+## 🔍 Preview
+
+![imgage alt](https://github.com/RajatSW/login_page2/blob/76d5d56014e59b6d17a00d16eb4a798d53c12b65/login_page2.png)
+
 ## ✨ Features
 
 - 🔄 Toggle between Login and Register form with animation
@@ -11,10 +15,6 @@ This project features a smooth toggle transition between Sign In and Sign Up for
 - 📱 Fully Responsive Layout
 - 🧠 Vanilla JavaScript — no frameworks used
 - 📦 Integrated with Boxicons for social media icons
-
-## 🔍 Preview
-
-![imgage alt](https://github.com/RajatSW/login_page2/blob/76d5d56014e59b6d17a00d16eb4a798d53c12b65/login_page2.png)
 
 ## 🚀 Technologies Used
 
