@@ -12,10 +12,9 @@ This project features a smooth toggle transition between Sign In and Sign Up for
 - 🧠 Vanilla JavaScript — no frameworks used
 - 📦 Integrated with Boxicons for social media icons
 
-## 📸 Preview
+## 🔍 Preview
 
-![Login Page Banner](./banner.png) <!-- Add your own banner image here -->
-![Live Demo GIF](./demo.gif) Will be posted soon<!-- Add your recorded GIF here -->
+![imgage alt]()
 
 ## 🚀 Technologies Used
 
